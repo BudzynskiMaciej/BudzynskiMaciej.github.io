@@ -1,5 +1,9 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256" height="256"
+     viewBox="0 0 512 512"
+     version="1.1">
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <g fill="#000000">
 <path fill="#DDDDDD" opacity="1.000000" stroke="none" 
 	d="
 M512.712036,391.761108 
@@ -16938,4 +16942,5 @@ M248.653030,247.033569
 	C249.022156,248.782349 248.838913,250.430756 246.372711,250.978210 
 	C246.146439,249.342194 245.373322,247.154984 248.653030,247.033569 
 z"/>
+  </g>
 </svg>
