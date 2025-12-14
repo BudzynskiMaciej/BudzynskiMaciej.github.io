@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 32 32" width="32" height="32"><title>Maciej Budzynski - Tech Logo Transparent</title><!-- Ustawienia linii:
+       Kolor: Neon Pink (#ff0080)
+       Grubość: 2px (Dla ostrości w małym rozmiarze)
+       Kształt końcówek: square (Dla technicznego wyglądu)
+  --><g fill="none" stroke="#ff0080" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><!-- Znak < (x: 2-5) --><path d="M5 10 L 2 16 L 5 22"/><!-- Litera M (x: 8-14) --><path d="M8 22 V 10 L 11 15 L 14 10 V 22"/><!-- Litera B (Styl Block/Tech) (x: 17-21) --><!-- Pionowa kreska --><path d="M17 10 V 22"/><!-- Górna pętla (kwadratowa) --><path d="M17 10 H 20 V 15 H 17"/><!-- Dolna pętla (kwadratowa) --><path d="M17 17 H 21 V 22 H 17"/><!-- Znak / (x: 24-27) --><path d="M24 22 L 27 10"/><!-- Znak > (x: 29-32) --><!-- Jest bardzo ciasno, więc przesuwamy go na sam skraj lub go pomijamy. 
+         Dla czytelności 32px lepiej zamknąć tag samym slashem, 
+         ale tutaj dodaję go, abyś miał komplet. --><path d="M29 10 L 32 16 L 29 22"/></g></svg>
